@@ -2,7 +2,7 @@ I Have my own uses for this but I just wanted to share it as a template to start
 
 This bot Takes input such as a website like == facebook.com == it does not need the https:\\ as it is already included, just to save a headache.
 
-If you use chrome you may need to downloads some of there drivers == 
+If you use chrome you may need to download some of there drivers == 
 
      -- Chrome Driver == https://chromedriver.chromium.org/
      
