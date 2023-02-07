@@ -31,3 +31,7 @@ Update 1 ==
      I also got some more work to do with my yt bot I haven't done much to it, 
      
      or not enough to post at least sorry :<
+     
+/*
+And the elifs' go dummy in this one
+*/
